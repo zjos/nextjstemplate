@@ -5,8 +5,13 @@ export default function Home() {
 	return (
 		<div className='flex flex-col gap-4 items-center justify-center h-svh'>
 			<Button color='primary'>NextUI-button</Button>
-			<Component1/>
-			<Button color='warning'>web API</Button>
+			<Component1 />
+			<Button
+				href='/helloAPI'
+				as={Link}
+				color='warning'>
+				web API
+			</Button>
 		</div>
 	);
 }
