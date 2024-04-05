@@ -1,12 +1,18 @@
 # installed packages
 
+npm update uitvoeren om laatste versies te installeren
+
 ## npx create-next-app
 
 npx create-next-app@latest .
 
 ## webAPI
 
+GET en POST voorbeeld op /helloAPI
+
 ## reactcontext
+
+not in template
 
 ## Next UI
 
@@ -14,13 +20,9 @@ npx create-next-app@latest .
 npm i @nextui-org/react framer-motion
 tailwind.config.js aanpassen
 app/providers.tsx
-layout page 
-
-## Prisma
+layout page
 
 ## Tailwind stuff
-
-## Playwright / Playwright-test
 
 ## .env
 
